@@ -44,7 +44,7 @@ The dataset includes student-level data such as:
 
 <img width="839" height="478" alt="2" src="https://github.com/user-attachments/assets/65ac98e9-e962-4ff6-8265-5a7eb391cd96" />
 
-<img width="841" height="466" alt="3" src="https://github.com/user-attachments/assets/3b89ffc3-4be0-45e4-b315-caf61b56be24" />
+<img width="851" height="472" alt="3" src="https://github.com/user-attachments/assets/0ec9ea80-d6ea-498a-bd30-364554203c6e" />
 
 <img width="850" height="461" alt="4" src="https://github.com/user-attachments/assets/047b9e69-fa91-4a20-93dd-913418bf37e4" />
 
