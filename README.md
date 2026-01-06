@@ -39,7 +39,18 @@ The dataset includes student-level data such as:
 - Prioritize early support for students exhibiting multiple risk indicators.
 
   # Dashboards
-  OVERVIEW 
-  <img width="853" height="479" alt="1" src="https://github.com/user-attachments/assets/dac07c37-c808-4bef-b859-b53c76c1425d" />
-
   
+<img width="853" height="479" alt="1" src="https://github.com/user-attachments/assets/dac07c37-c808-4bef-b859-b53c76c1425d" />
+
+<img width="839" height="478" alt="2" src="https://github.com/user-attachments/assets/65ac98e9-e962-4ff6-8265-5a7eb391cd96" />
+
+<img width="841" height="466" alt="3" src="https://github.com/user-attachments/assets/3b89ffc3-4be0-45e4-b315-caf61b56be24" />
+
+<img width="850" height="461" alt="4" src="https://github.com/user-attachments/assets/047b9e69-fa91-4a20-93dd-913418bf37e4" />
+
+<img width="844" height="463" alt="5" src="https://github.com/user-attachments/assets/ed04b607-07a9-46d2-8597-86c6952e7ffb" />
+
+<img width="844" height="461" alt="6" src="https://github.com/user-attachments/assets/5f20c73c-1b60-4123-abe8-0d8e3da5f888" />
+
+
+
