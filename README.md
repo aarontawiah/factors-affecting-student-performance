@@ -26,14 +26,20 @@ The dataset includes student-level data such as:
 - DAX (measures, calculated columns, risk modeling)
 
 # Key Insights
-1. Attendance is the strongest predictor of exam performance.
-2. Study hours improve performance up to a point, after which returns diminish.
-3. Optimal sleep duration (7–8 hours) is linked to better academic outcomes.
-4. Active study methods outperform passive learning approaches.
-5. Academic risk is cumulative, driven by multiple behavioral factors.
+- Attendance is the strongest predictor of exam performance.
+- Study hours improve performance up to a point, after which returns diminish.
+- Optimal sleep duration (7–8 hours) is linked to better academic outcomes.
+- Active study methods outperform passive learning approaches.
+- Academic risk is cumulative, driven by multiple behavioral factors.
 
 # Recommendations
-1. Implement early attendance monitoring systems.
-2. Promote effective and structured study methods.
-3. Educate students on healthy sleep habits.
-4. Prioritize early support for students exhibiting multiple risk indicators.
+- Implement early attendance monitoring systems.
+- Promote effective and structured study methods.
+- Educate students on healthy sleep habits.
+- Prioritize early support for students exhibiting multiple risk indicators.
+
+  # Dashboards
+  OVERVIEW 
+  <img width="853" height="479" alt="1" src="https://github.com/user-attachments/assets/dac07c37-c808-4bef-b859-b53c76c1425d" />
+
+  
